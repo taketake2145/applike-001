@@ -1,0 +1,7 @@
+{
+  "short_name": "short",
+  "name": "full",
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone",
+  "orientation": "portrait"
+}
